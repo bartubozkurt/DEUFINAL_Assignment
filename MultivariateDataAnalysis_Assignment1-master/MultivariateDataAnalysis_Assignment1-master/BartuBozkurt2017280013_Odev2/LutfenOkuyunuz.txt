@@ -1,0 +1,50 @@
+Merhabalar hocam iyi çalışmalar, Ödevi ve düzenini açıklamak için bu text dosyasını oluşturdum.
+
+___________________________________TEMEL BİLEŞENLER ANALİZİ ADIMLARI____________________________
+
+N boyutlu verinin N * N boyutlu Kovaryans matrisi bulunur.
+Matrisin N adet özdeğeri(eigen value) bulunur.
+En büyük ilk M özdeğere karşılık gelen M adet özvektör(eigen vector) bulunur. (e)
+Veriler M özvektöre izdüşürülerek N boyuttan M boyuta indirgenmiş olur.
+________________________________________________________________________________________________
+1. Sayfa'da Kovaryans - Varyans matrisi (hesaplama işlemleri excel üzerinde detaylı (dosya içindedir) renklendirilmiştir.)
+	Özdeğer - Özvektör bulunmuştur.
+2. Sayfa
+	Toplam Varyans = Özdeğerlerin toplamı 
+	Temel Bileşenleri Varyansa etkisi
+3. Sayfa 
+	Orjinal değişkenler ile temel bileşenler arasındaki korelasyon değerleri hesaplanmıştır.
+4. Sayfa
+	Orjinal değişkenler ile temel bileşenler arasındaki korelasyon değerleri hesaplanmıştır.
+5. Sayfa 
+	Orjinal değişkenler ile temel bileşenler arasındaki korelasyon değerleri hesaplanmıştır.
+6. Sayfa
+	Korelasyon Sonuçlarını matrise döktük.
+	Önemli !! Hocam sorularda işlem kolaylığı açısından virgülden sonra 4 basamak aldım 
+	Örn: bazı yerlerde -0.000029 gibi bir sonuç çıkıyor genel olarak virgülden sonra 4 basamak aldığım için	
+	bu tarz yerlede de böyle almak durumunda kaldım. umarım anlatabilmişimdir teşekkürler hocam.
+
+Özdeğerleri büyükten küçüğe sıraladım (zaten sıralanmıştı) bunlara karşılık gelen özvektörleri de yazdım.
+
+	Faktör sayısı kaç olmalı ?
+1. Faktör için varyans'a katkısına baktık. 
+burada 2/3 ten büyük olması lazım değilse olana kadar bulacağız fakat 1. özdeğer de 0,95 çıktı !
+
+** O zaman 6 değişken için 1 yeni faktörle açıklanabilir.
+	-Faktör sayısı belirledik.
+
+	-Faktör skorları fonksiyonları
+önce faktör yüklerini bulalım. bulduktan sonra faktör yükleri matrisini yazdık.
+
+son olarak Faktör skorunu bulduk.
+
+
+     BARTU BOZKURT - 2017280013
+	BİLGİSAYAR BİLİMLERİ
+
+
+
+
+	 
+	
+	
