@@ -1,0 +1,62 @@
+______________ Hosgeldiniz______________
+
+Lutfen Yapmak Istediginiz Islemi Seciniz.
+              ___ MENU ___
+
+
+
+[1] - [Dosyayi ac, oku ve serilestir.]
+[2] - [Desirilestir ve ekrana yazdir.]
+[3] - [Programdan cikis yap.]
+
+
+
+Seciminizi Giriniz :		// Seçiminizi Giriniz 
+________________________________________________________
+
+Seçim 1 ise 
+________________________________________________________
+
+Serilestirildi!  		// Yazacak 
+
+________________________________________________________
+
+Seciminizi Giriniz :      	// Seçiminizi Giriniz 
+
+________________________________________________________
+
+Seçim 2 ise 
+
+________________________________________________________
+
+
+Deserilestirildi!
+
+
+__BILGILER__			// Yazacak 
+
+661
+36
+the , 39
+
+________________________________________________________
+
+
+Seciminizi Giriniz :  	// Programdan çıkmak için 3 e basınız 
+________________________________________________________
+
+Ya da
+
+Menüde belirtilen tuslar dısında bir tusa basarsanız 
+
+
+Yanlis tusa bastiniz lutfen tekrar deneyiniz ! 	// Yazacak 
+
+________________________________________________________
+
+		Bartu Bozkurt
+	 #   Bilgisayar Bilimleri   #
+		 2017280013
+
+________________________________________________________
+
