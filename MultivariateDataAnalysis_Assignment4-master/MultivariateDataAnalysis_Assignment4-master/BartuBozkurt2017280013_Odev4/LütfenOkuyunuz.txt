@@ -1,0 +1,29 @@
+Sayfa 1 de verilerden elde edilen korelasyon matrisi hesaplanmıştır.
+aynı zamanda Özdeğer(Faktör Varyansı) ve Özvektörler hesaplanmıştır.
+
+Sayfa 2 de Özdeğerler(Faktör Varyansları) büyükten küçüğe sıralanmıştır.
+Toplam özdeğer ve toplam varyans bulunmuştur ve eşittir.
+Faktör yükleri hesaplanmıştır
+(*ben burada tüm k ları hesaplayıp en son indirgemeyi yapıyorum daha mantıklı olsun diye*)
+
+
+
+Sayfa 3 de her faktör için faktör yükleri matrisleri bulunmuştur.
+
+
+** ÖNEMLİ **
+Sayfa 4 te  EN UYGUN FAKTÖR SAYISI BELİRLENMİŞTİR 
+6 DEĞİŞKEN İÇİN EN UYGUN 2 FAKTÖRLE AÇIKLANABİLİR.
+
+(BEN TÜM FAKTÖRLERİ YAZDIM ÇÜNKÜ DAHA BELİRGİN ŞEKİLDE GÖRÜLMESİNİ İSTEDİM)
+6 faktörden 2 faktöre indirgedik..
+
+Sayfa 4 devamın'da tabloda faktör 1 ve faktör 2 nin açıklanma yüzdeleri yüksek bu yüzden
+hemen altındaki tabloyu oluşturdum ve faktör varyansıları için 
+(faktör yükü)^2 ni hesapladım ve h1^2 ve h2^2 olarak tabloda yerleştirdim.
+
+
+En son olarak faktör skor formüllerini FS1 VE FS2 olarak yazdım.
+
+
+BARTU BOZKURT - 2017280013 - BİLGİSAYAR BİLİMLERİ 
